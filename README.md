@@ -1,5 +1,5 @@
 👨‍💻 **Ehsan Nottaghi** — Front End Dev & Game Developer  
-🚀 8+ years in React/Next.js | 🎮 4+ years in Unity  
+🚀 7+ years in React/Next.js | 🎮 4+ years in Unity  
 🎨 Web3 Projects [@KrewStudios](https://krewstudios.com/) | 🔥 32,000+ ETH Trading Volume  
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/ehsan-notaghi-810145128/) | ✉️ [ehsannotaghi@gmail.com](mailto:ehsannotaghi@gmail.com)
 
